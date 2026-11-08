@@ -120,3 +120,8 @@ Build first (see [Run it](#run-it)), then:
 
 Protocol layout credit: [Earshot](https://github.com/HellzYeahh/earshot) (MIT), which derived it from analysis
 of the official app. Not affiliated with Skullcandy, Bose, Bragi or FxSound.
+
+## License
+
+Public domain under [the Unlicense](LICENSE): do anything you like with this code. The exception is
+`data/crusher1080_soundguys.json`, a measurement by SoundGuys that isn't covered by this license.
